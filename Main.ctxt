@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n
+comment2.params=
+comment2.target=boolean\ perform_sale()
+comment3.params=
+comment3.target=boolean\ add_stock()
+comment4.params=
+comment4.target=boolean\ add_new_lubricant()
+comment5.params=
+comment5.target=boolean\ show_sale_report()
+comment6.params=
+comment6.target=boolean\ edit_inventory()
+comment7.params=
+comment7.target=boolean\ print_inventory()
+comment8.params=
+comment8.target=boolean\ main_menu()
+comment9.params=Args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
